@@ -1,0 +1,8 @@
+ruta_zip: "C:/Users/kevin/Desktop/DOCUMENTACIONES/ORDENANZA-FISCAL-2024.zip"
+carpeta_salida: "C:/Users/kevin/Desktop/output_ordenanza_fiscal_2024"
+incluir_pdfs: false
+prompt_resumen: |
+  Aprende todo lo que dice el documento, entiendelo perfecto para poder generar un resumen con los siguientes items:
+  - Arma un resumen de 2 lineas explicando qué tipo de documento es y a quién está dirigido.
+  - Identifica el resultado o resolucion del mismo
+  
